@@ -7,7 +7,9 @@ Calculate velocity, grativational force, and new position of planets (Sun,Earth,
 4. ![equation](https://latex.codecogs.com/gif.latex?a%20%3D%5Cfrac%7BF%7D%7Bm%7D)
 
 
-##Demo 
+## Demo 
 
 [Demo](https://www.glowscript.org/#/user/mptrinh/folder/MyPrograms/program/SolarSystem)
-![image](https://user-images.githubusercontent.com/24967218/67439591-4615c780-f5bc-11e9-9cdd-a3d29c851ca7.png)
+
+<img width="858" alt="Screen Shot 2019-10-23 at 5 31 59 PM" src="https://user-images.githubusercontent.com/24967218/67440183-1ebffa00-f5be-11e9-8dc3-fc6603b13fc4.png">
+
